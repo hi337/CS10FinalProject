@@ -107,6 +107,7 @@ p {
   align-items: center;
   width: 100%;
   padding-left: 12vw;
+  margin-bottom: 100px;
 }
 
 ::-webkit-scrollbar {
